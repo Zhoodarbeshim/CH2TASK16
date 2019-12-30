@@ -1,0 +1,5 @@
+your_weight = int(input("Enter a number: "))
+print(your_weight)
+print(your_weight * 0.165)
+after_15_years = int(15 * 0.165)
+print(after_15_years + 15)
